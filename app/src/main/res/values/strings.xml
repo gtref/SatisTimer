@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SatisTimer</string>
+    <string name="accessibility_service_label">SatisTimer app monitoring</string>
+    <string name="accessibility_service_description">Monitors app changes for timer enforcement.</string>
+    <string name="device_admin_description">SatisTimer device administration</string>
+</resources>
